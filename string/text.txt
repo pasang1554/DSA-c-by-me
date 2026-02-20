@@ -1,0 +1,81 @@
+🟢 EASY LEVEL
+
+These are basic string manipulation problems.
+
+Count words
+
+Remove vowels
+
+Articles count (a, an, the)
+
+Email privacy
+
+Swap even/odd characters
+
+Palindromic string (simple check)
+
+Remove duplicates (LinkedHashSet)
+
+Camel case ↔ Snake case
+
+Word frequency (using HashMap)
+
+Letter frequency (lexicographical order)
+
+👉 These mainly test:
+
+Loops
+
+Condition checking
+
+HashMap / Set
+
+Basic string methods
+
+🟡 MEDIUM LEVEL
+
+These need better logic and edge-case handling.
+
+Anagram (with / without space)
+
+Rotating string
+
+Longest Common Prefix
+
+First unique character
+
+Run Length Encoding
+
+String compression
+
+Replacement of words
+
+Keyboard Row (Leetcode 500)
+
+Roman to Integer
+
+Validate IPv4
+
+👉 These test:
+
+Frequency counting
+
+Sorting logic
+
+String building
+
+Careful edge case handling
+
+🔴 HARD LEVEL
+
+These involve advanced concepts or deeper algorithm understanding.
+
+Valid Parentheses (Leetcode 20)
+→ Stack concept
+
+Bulls and Cows
+→ HashMap + two-pass logic
+
+Longest Palindromic Substring
+→ Expand around center / DP
+→ Very important interview question

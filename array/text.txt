@@ -1,0 +1,75 @@
+🟢 EASY LEVEL (Basic Array Logic)
+
+These mostly need loops and simple comparisons.
+
+Largest element in array
+
+Max and Min in array
+
+Difference between min & max
+
+Sum except smallest & largest
+
+Reverse array
+
+Remove number from array
+
+Array element difference
+
+Swap nearby values
+
+Print prime numbers from even index
+
+👉 Concepts used:
+
+Simple loops
+
+Conditions
+
+Basic math
+
+🟡 MEDIUM LEVEL (Better Logic Required)
+
+These need slightly stronger thinking or multiple steps.
+
+Palindromic numbers in array
+
+Element-to-element matrix multiplication
+
+Left Rotation
+
+Missing array finder
+
+XOR of two arrays
+
+Floor & Ceil
+
+Daily temperature
+
+R & C minimum replacements
+
+👉 Concepts used:
+
+Index manipulation
+
+Pattern recognition
+
+Prefix/suffix logic
+
+Counting & condition tracking
+
+🔴 HARD LEVEL (Algorithmic Thinking Required)
+
+These require deeper algorithm understanding.
+
+Unvisited leaves
+→ Mathematical + simulation logic
+→ Optimization needed
+
+Sort and count minimum swaps
+→ Cycle detection in array
+→ Graph-like thinking
+
+Minimum jumps
+→ Greedy / DP
+→ Very important interview problem
