@@ -23,10 +23,10 @@ int main(){
     cout<<"Floor: "<<floor<<endl;
     cout<<"Ceil: "<<ceil;
 }
-Input
-5
-1 3 5 7 9
-6
-Output
-Floor: 5
-Ceil: 7
+// Input 
+// 5
+// 1 3 5 7 9
+// 6
+// Output
+// Floor: 5
+// Ceil: 7

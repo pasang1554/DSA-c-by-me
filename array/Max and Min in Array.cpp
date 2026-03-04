@@ -25,3 +25,18 @@ int main(){
 // Output
 // Min: 1
 // Max: 10
+
+// min and max in array 
+// 4 5 6 7 2 1
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+    int n;
+    cin>>n;
+    int arr[n];
+    for(int i=0;i<n;i++){
+        cin>>arr[i];
+    }
+    sort(arr,arr+n);
+    cout<<arr[0]<<"is the min "<<"and "<<arr[n-1]<<" is the max";
+}

@@ -1,0 +1,10 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+    string s;
+    getline(cin,s);
+    int pos=s.find(" ");
+    cout<<s[0]<<" "<<s.substr(pos+1);
+}
+// pasang ladakh
+// p ladakh
